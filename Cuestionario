@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Formulario de proba de HTML5</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <p></p>
+  <label for="email">Email:</label><br>
+  <input type="text" id="email" name="email"><br><br>
+  <label for="url">URL:</label><br>
+<input type="url" id="url" name="url">
+<p></p>
+<label for="datetime">Data:</label><br>
+<input type="date" name="date" id="date" />
+<p></p>
+<label for="time">Tempo:</label><br>
+<input type="time" name="time" id="time" />
+<p></p>
+<label for="dataehora">Data e hora</label><br>
+<input type="datetime-local" name="datetime" id="datetime" />
+<p></p>
+<label for="mes">Mes:</label><br>
+<input type="month" name="month" id="month" />
+<p></p>
+<label for="semana">Semana:</label><br>
+<input type="week" name="week" id="week" />
+<p></p>
+<label for="numero">Número(mínimo -5,máximo 5):</label><br>
+<input type="number" name="change" id="none" min="-5" max="5" step="1" />
+<p></p>
+<label for="semana">Telefono:</label><br>
+<input type="tel" id="tel" name="tel" />
+<p></p>
+<label for="semana">Término de busqueda:</label><br>
+<input type="tel" id="tel" name="tel" />
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+</body>
+</html>

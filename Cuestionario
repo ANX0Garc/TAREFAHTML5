@@ -35,19 +35,12 @@
 <input type="tel" id="tel" name="tel" />
 <p></p>
 <label for="semana">Término de busqueda:</label><br>
-<input type="tel" id="tel" name="tel" />
-
-
-
-
-
-
-
+<input type="tel" id="tel" name="tel" /><br>
+<p></p>
+<input type="submit">
 
 
 </form>
-
-
 
 </body>
 </html>
